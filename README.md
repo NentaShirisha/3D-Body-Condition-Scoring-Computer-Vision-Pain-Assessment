@@ -1,4 +1,4 @@
-# 3D Body Condition Scoring & Computer Vision Pain Assessment
+# 3D Body Condition Scoring & Computer Vision Pain Assessment(Team Name: HapiVet)
 
 A comprehensive system for automated animal health assessment using computer vision and 3D scanning technology. This system replaces manual Body Condition Score (BCS) checks and subjective pain scale scoring with automated computer vision analysis.
 
